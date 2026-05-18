@@ -32,3 +32,6 @@
 
 ---
 *Powered by the **Jenny Ecosystem** - Seek Pure Power.*
+
+## Completed
+This project is no longer supported by **hypernova-developer**. Genesis is not compatible with the new versions of Jenny. Using Genesis is not recommended. 18/05/2026 23:19
